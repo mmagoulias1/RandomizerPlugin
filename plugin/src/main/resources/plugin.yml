@@ -1,0 +1,6 @@
+name: McRandomize
+version: 1.0
+main: mcrandomize.McRandomizePlugin
+api-version: '1.20'
+description: A plugin that randomizes health, effects, and items in Minecraft
+author: YourName 
